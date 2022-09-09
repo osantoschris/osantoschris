@@ -1,6 +1,6 @@
 ### Olá! Sou o Christian Oliveira! 
 
-- 🔭 Trabalhando atualmente criação e divulgação de indicadores
+- 🔭 Trabalhando atualmente com criação e divulgação de indicadores
 - 🌱 Estudando Desenvolvimento back-end com foco em Python e SQL
 - 📖 Conhecimentos em front-end
 
